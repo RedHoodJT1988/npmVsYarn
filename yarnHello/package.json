@@ -1,0 +1,13 @@
+{
+  "name": "yarn-hello",
+  "version": "1.0.0",
+  "main": "bin/index.js",
+  "license": "MIT",
+  "bin": {
+    "hello": "./bin/index.js"
+  },
+  "dependencies": {
+    "boxen": "^5.0.1",
+    "chalk": "^4.1.1"
+  }
+}
